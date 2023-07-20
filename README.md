@@ -7,4 +7,4 @@ TODO:
 - Configuration for Advanced Equipment
 - Configuration for Dom's Dynamic Groups
 - ACRE preset setup
-- 
+- Add in custom comps w/ props 
