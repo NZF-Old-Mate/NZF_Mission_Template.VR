@@ -8,3 +8,12 @@ TODO:
 - Configuration for Dom's Dynamic Groups
 - ACRE preset setup
 - Add in custom comps w/ props 
+
+TODO Nice To Have:
+- arsenal.sqf configurable via script
+
+
+TODO DOCUMENTATION:
+- update and integrate Mission Making Guide
+- Add example sqm files
+- Setup NZF github wiki
